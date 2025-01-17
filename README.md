@@ -21,7 +21,9 @@ Instructions:
 
 2. Download the contents of this repository, click the green button -> download as zip
 
-3. Create a new folder in your desired location, and extract the contents of both your tiktok user data and the contents of this repository
+3. Create a new folder in your desired location(desktop, wherever you want), and place both the user_data.json from tiktok, and the file you downloaded from this repository into that new folder
+  
+4. Extract the contents of both 
 
-4. Double click and run target.exe, and your saved videos will be downloaded!
+5. Double click and run target.exe, and your saved videos will be downloaded!
 
