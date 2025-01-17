@@ -21,9 +21,10 @@ Instructions:
 
 2. Download the contents of this repository, click the green button -> download as zip
 
-3. Create a new folder in your desired location(desktop, wherever you want), and place both the user_data.json from tiktok, and the file you downloaded from this repository into that new folder
+3. Create a new folder in your desired location(desktop, wherever you want) where you want your downloaded videos to go
   
-4. Extract the contents of both 
+4. Extract the contents of both the user data, and the tiktok-download folder into your newly created folder. Your new folder should now contain user_data_tiktok.json, target.exe, yt-dlp.exe, convert-json-to-txt-win.ps1, and README.md
+   (note: convert-json-to-txt-win.ps1, and README.md are not necessary to do this, they are only there for visibility)
 
-5. Double click and run target.exe, and your saved videos will be downloaded!
+6. Double click and run target.exe, and your saved videos will be downloaded!
 
