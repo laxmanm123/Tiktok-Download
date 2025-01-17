@@ -4,9 +4,15 @@ This repository contains the files necessary to download your saved tiktoks to y
 Make sure you have enough space in whatever location you are running this program, as there will likely be alot of videos,
 for reference, I had about 1200 videos saved which took 4.6 GB. 
 
+It will take a long time, so don't close the terminal until it has completed, it will then close on its own.
+
 If the sound or video was removed, the video will not be downloaded
 
 Target.exe is the executable version of convert-json-txt-win.ps1, feel free to look at the code
+
+I did not create yt-dlp.exe, it is a free and open source video and audio downloading tool that you can find more about here: https://github.com/yt-dlp/yt-dlp
+
+The purpose of this project is to simplify the steps of the manual process so anyone can do it in 20 seconds.
 
 Instructions:
 
