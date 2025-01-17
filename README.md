@@ -1,9 +1,12 @@
 # Tiktok-Download
 This repository contains the files necessary to download your saved tiktoks to your computer.
+
 Make sure you have enough space in whatever location you are running this program, as there will likely be alot of videos,
 for reference, I had about 1200 videos saved which took 4.6 GB. 
 
 If the sound or video was removed, the video will not be downloaded
+
+Target.exe is the executable version of convert-json-txt-win.ps1, feel free to look at the code
 
 Instructions:
 
@@ -15,3 +18,4 @@ Instructions:
 3. Create a new folder in your desired location, and extract the contents of both your tiktok user data and the contents of this repository
 
 4. Double click and run target.exe, and your saved videos will be downloaded!
+
